@@ -1,5 +1,5 @@
 {
-    "version": "1.9.6",
+    "version": "2.0.0",
     "url": "http://www.molspaces.com/dl/progs/cb2bib-2.0.0-install.exe",
     "bin":[["externtools/xpdf/pdf2cb.exe", "pdf2cb.exe"]],
     "shortcuts": [["cb2bib.exe", "cb2bib"]]
